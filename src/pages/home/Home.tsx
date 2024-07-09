@@ -1,5 +1,6 @@
 import React from 'react';
 import homeLogo from '../../assets/Sonic_1991.png'
+
 import './Home.css';
 import {Ambulance} from '@phosphor-icons/react'
 import ListaCategoria from '../../components/categoria/listaCategoria/ListaCategoria';
